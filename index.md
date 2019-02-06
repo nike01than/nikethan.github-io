@@ -1,4 +1,4 @@
-## Welcome to my pages nikethan
+## Welcome to my pages nike
 
 You can use the [editor on GitHub](https://github.com/nike01than/nikethan.github-io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
