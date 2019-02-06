@@ -1,6 +1,6 @@
-## Welcome to my pages nikethan
+## Welcome to my pages
 
-You can use the [editor on GitHub](https://github.com/nike01than/nikethan.github-io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use my page for [fun page](https://github.com/nike01than/nikethan.github-io/edit/master/index.md). Facebook and other social medias are available in this webpage.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
